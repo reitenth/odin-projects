@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+}
+
+.head-container {
+    background-color: #1F2937;
+}
+
+.header-logo h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+h6 {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 10px;
+}
+
+.header-logo {
+    justify-content: flex-start;
+    flex-grow: 1;
+}
+
+.header-link {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.intro-text-image-container {
+    display: flex;
+    margin: 100px 200px 100px 200px;
+    justify-content: space-between;
+    height: 350px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.intro-text {
+    width: 400px;
+}
+
+.intro-text button {
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: #E5E7EB;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border-color: #3882f6;
+
+}
+
+.intro-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.intro-image {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.intro-image p {
+    font-size: 16px;
+    color: #E5E7EB;
+    padding: 100px 150px 100px 150px;
+    background-color: grey;
+    margin: 0;
+    height: 20px;
+}
+
+.info-container h2 {
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.boxes-container {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    height: 300px;
+}
+
+.box {
+    outline: solid;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    outline-color: blue;
+}
+
+.box1 {
+    width: 150px;
+}
+
+.box2 {
+    width: 150px;
+}
+
+.box3 {
+    width: 150px;
+}
+
+.box4 {
+    width: 150px;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 50px 300px 50px 300px;
+}
+
+.quote-container p {
+    color: #1F2937;
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+.quote-container h4 {
+    padding-left: 550px;
+    margin-top: 10px;
+}
+
+.action-container {
+    padding: 100px 200px 100px 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.blue-box {
+    padding: 30px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+}
+
+.blue-box h3 {
+    color: white;
+    margin-bottom: 0px;
+    flex: 1;
+
+}
+
+.blue-box p {
+    color: white;
+    margin-top: 0px
+}
+
+.blue-box button {
+    border-radius: 4px;
+    border-color: white;
+    width: 100px;
+    height: 30px;
+    margin-left: 100px;
+    color: white;
+    background-color: #3882F6;
+    align-self: center;
+}
+
+footer {
+   background-color: #1F2937;
+   color: white;
+   height: 80px;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+}
