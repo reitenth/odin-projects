@@ -1,0 +1,111 @@
+body {
+  background-color: #2e3440;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.container {
+  background-color: #d8dee9;
+  border: black solid 2px;
+  border-radius: 10px;
+  height: 50vh;
+  width: 40vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.displayrow {
+  display: flex;
+  flex-direction: column;
+  background-color: #eceff4;
+  border: black solid 2px;
+  border-radius: 5px;
+  width: 35vh;
+  height: 10vh;
+  justify-content: space-between;
+}
+
+.toprow,
+.bottomrow {
+  text-align: end;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.toprow {
+  font-size: medium;
+}
+
+.bottomrow {
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.clearrow {
+  display: grid;
+  gap: 10px;
+  width: 35vh;
+  margin-top: 10px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+#clear,
+#delete {
+  background-color: lightcoral;
+  text-align: center;
+  border: black solid 2px;
+  border-radius: 5px;
+  padding: 15px 20px 15px 20px;
+  flex-grow: 3;
+}
+
+#delete {
+  background-color: lightskyblue;
+}
+
+.numbercontainer {
+  display: grid;
+  gap: 10px;
+  width: 35vh;
+  margin-top: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+  background-color: #eceff4;
+  padding: 20px;
+  flex-grow: 1;
+  text-align: center;
+  border: black solid 2px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #d8dee9;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.footer {
+  gap: 10px;
+  margin-top: 20px;
+  width: 40vh;
+  text-align: center;
+}
+
+.footer > a {
+  color: #d8dee9;
+  text-decoration: none;
+  transition: 1s;
+}
+
+.footer > a:hover {
+  border-bottom: 1px solid #d8dee9;
+  color: rgba(252, 252, 252, 0.849);
+}
