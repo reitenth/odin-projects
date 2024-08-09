@@ -1,14 +1,39 @@
 # [odin-recipes](https://odin-recipes-reitenth.netlify.app/)
-this project is a basic html recipe template using lists.
+
+**Time Spent:** Not Tracked
+
+**What I Learned:** How to properly setup a git project.
+
+**What Was Difficult:** Refreshing my brain for ordered and unordered lists. 
 
 # [odin-landing-page](https://odin-landing-page-reitenth.netlify.app/)
-This is my first big milestone using The Odin Project. I believe I have a solid grasp on flexbox to achieve a nice landing page!
+
+**Time Spent:** Not Tracked
+
+**What I Learned:** Learning the basics of flexbox.
+
+**What Was Difficult:** The difference between margin and padding to get things where I wanted with flexbox.
 
 # [odin-rock-paper-scissors](https://odin-rock-paper-scissors-reitenth.netlify.app/)
-rock paper scissors javascript project from the odin project. it took me about maybe 8 hours of coding and about the same of watching and studying concepts. the dom was actually easy to grasp. the hardest part was following the syntax of javascript without errors. most of the original code was good just not formatted in the correct way, which will get easier in time.
+
+**Time Spent:** 8 hrs coding and 8 hrs studying concepts
+
+**What I Learned:** The basics of javascript. The DOM was scary at first but not as bad as I thought to grasp.
+
+**What Was Difficult:** Following the syntax of javascript without errors. It took time to get things formatted to actually run correctly despite the code being okay.
 
 # [odin-etch-a-sketch](https://odin-etch-a-sketch-reitenth.netlify.app/)
-Finished up the etch a sketch project. I started using the WakaTime extention to calculate time on project half way through. I think it took maybe 4-5 hours total with about the same in research; about half the time of the rock paper scissors. It was much easier understanding javascript logic and I felt really comfortable navigating the DOM. Still a lot of tools and it is tough knowing what to use, but I feel like that is coding in general, you will look up a lot of stuff. I moved to a dedicated study space during this project so lost about a week of coding, but that might have been good to digest concepts. Looking forward to finishing out the foundations course!
 
+**Time Spent:** 5 hrs coding and 5 hours studying concepts.
+
+**What I Learned:** More DOM getting ingrained in me. I used grid as I was somewhat familiar with it from previous HTML knowledge despite it not being taught yet. 
+
+**What Was Difficult:** Once again, the syntax. It is different than HTML/CSS and takes more time than writing code.
 
 # [odin-calculator](https://odin-calculator-reitenth.netlify.app/)
+
+**Time Spent:** 10-12 hrs coding, not sure on studying but pretty close to the same amount probably. 
+
+**What I Learned:** How to keep moving forward when I got stuck and frustrated. This was the first project where the puzzle pieces didn't fall into place and it took multiple days to grasp what was not very much actual code.
+
+**What Was Difficult:** Toughest project so far. Getting things from the 'current' screen to 'previous' took time and some help from the folks on Discord.
